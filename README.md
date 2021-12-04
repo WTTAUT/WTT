@@ -42,12 +42,13 @@ In December 2021, the WTT Chain, WTT officially launched, which will focus on im
 #### Official Website
 explorer.cadaut.com
 
-#### Public Testnet
+#### Public mainnet
 chainid 1202
 
 #### PRC
 
 wss://rpc.cadaut.com/ws
+
 https://rpc.cadaut.com
 
 #### Blockchain Explorer
